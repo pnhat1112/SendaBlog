@@ -24,3 +24,6 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 ## Product
 
 <img src="https://i.postimg.cc/DwSQKLHX/trangchu1.png" width="500"><img src="https://i.postimg.cc/7PNn1xSf/trangchu2.png" width="500"><img src="https://i.postimg.cc/wTTc0SkF/trangchu3.png" width="500"><img src="https://i.postimg.cc/BbJcWyfS/trangchu4.png" width="500">
+<img src="https://i.postimg.cc/8cwdTHTh/dangnhap.png" width="500">
+<img src="https://i.postimg.cc/JzFqyPZx/dangbai.png" width="500">
+<img src="https://i.postimg.cc/V6qBVwTZ/quanli.png" width="500">
